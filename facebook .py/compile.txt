@@ -1,0 +1,1 @@
+pyinstaller --icon=path.ico --onefile --noconsole path/file.py
